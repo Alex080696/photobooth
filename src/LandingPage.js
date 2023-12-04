@@ -63,9 +63,9 @@ export default function LandingPage() {
     </Carousel.Item>
   </Carousel>
       </div>
-      
+      <section id="contact-section">
     <ContactUs/>
-    
+    </section>
     <Footer/>
     </>
     

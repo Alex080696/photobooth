@@ -21,9 +21,9 @@ const Navigation = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" className="Toggle" />
           <Navbar.Collapse id="basic-navbar-nav" >
             <Nav className="ms-auto">
-              <Nav.Link href="./LandingPage" className="list_item">Home</Nav.Link>
+              <Nav.Link href="/" className="list_item">Home</Nav.Link>
               
-              <Nav.Link href="#contact1" onClick={scrollToContactUs} className="list_item">Contact us</Nav.Link>
+              <Nav.Link href="#contact" onClick={scrollToContactUs} className="list_item">Contact us</Nav.Link>
             </Nav>
             <Nav className="ms-auto">
               <div>
