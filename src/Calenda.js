@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Navigations from './Components/TopNavs';
+import Navigationsa from './Components/TopN';
 import Footer1 from './Components/Footer1';
 
 
@@ -93,7 +93,7 @@ const Calendar = () => {
 
   return (
     <>
-        <Navigations/>
+        <Navigationsa/>
     <div>
         
       <h2 className="bk">Book Us!</h2>
