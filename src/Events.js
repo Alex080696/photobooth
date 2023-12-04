@@ -51,7 +51,7 @@ function Events() {
         <Card style={{ width: '18rem' }}>
         <Card.Img variant="top" src={slowmo} alt="Slowmo" style={{ height: '215px' }}/>
         <Card.Body className="card-container">
-          <Card.Title>slowmo booth</Card.Title>
+          <Card.Title>Slowmo booth</Card.Title>
           <Card.Text>
           Enhance the slow-motion and add a touch of cinematic magic to your event with our Slow Motion Photo Booth services. Capture every moment
         in stunning detail, slow down the action, and create memorable, entertaining content that will be shared and
