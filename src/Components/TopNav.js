@@ -17,7 +17,7 @@ const Navigation = () => {
     return (
         <Navbar expand="lg" className="navbar">
         <Container>
-          <Navbar.Brand href="./LandingPage" className="brand">Kratus Photography</Navbar.Brand>
+          <Navbar.Brand href="/" className="brand">Kratus Photography</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" className="Toggle" />
           <Navbar.Collapse id="basic-navbar-nav" >
             <Nav className="ms-auto">
