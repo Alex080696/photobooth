@@ -548,6 +548,11 @@
   
       margin-top: -18%;
     }
+
+    .text-content h2{
+        font-size: calc(2rem + 0.6vw);
+    }
+
     .image-with-text {
       height: 40vh; 
     }

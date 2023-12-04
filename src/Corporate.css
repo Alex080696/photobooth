@@ -116,7 +116,9 @@ body {
     .hero-image {
       width: 100%;
       transform: none;
-      margin: 0;
+      margin-top: 150px;
+      margin-left: 38px;
+
     }
   
   
@@ -562,6 +564,7 @@ body {
   }
   
   
+  
   @keyframes moveLeft {
     0% {
       transform: translateX(0);
@@ -577,7 +580,17 @@ body {
     .image-container {
       flex-wrap: nowrap;
       justify-content: flex-start;
+      
      
+    }
+
+    .image-containerss{
+        height: 20vh;
+    }
+
+    .image{
+        width: auto;
+        height: 100%;
     }
    
   }
