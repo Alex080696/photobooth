@@ -145,7 +145,7 @@ h3, .h3 {
 
 @media (max-width: 768px){
   .carousel-caption .a{
-    font-size: (1.3rem + 0.6vw);
+    font-size: 10px;
     margin-top: 7rem;
   }
 
@@ -472,17 +472,22 @@ ul li a:hover{
 
 
 @media(max-width: 969px){
-  .card{
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 -10px; /* Adjust negative margin to counteract card margins */
+  }
+
+  .card {
     flex: 0 0 calc(100% - 20px);
     max-width: calc(100% - 20px);
+    margin: 0 20px 20px 10px; /* Adjust margin as needed */
   }
 
-  .row{
+  .cardsss {
     margin-bottom: 20px;
-  }
-
-  .cardsss{
-    margin-bottom: 20px;
+    margin-left: 10%;
   }
 }
 

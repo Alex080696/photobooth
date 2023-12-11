@@ -22,6 +22,7 @@ import Wedding from './Wedding';
 
 
 
+
 const App = () => {
   return (
     <Routes>
@@ -36,6 +37,7 @@ const App = () => {
       <Route path="/bookus" element={<Calendar/>}/>
       <Route path="/corporate" element={<Corporate/>}/>
       <Route path="/wedding" element={<Wedding/>}/>
+      
       
       
     </Routes>

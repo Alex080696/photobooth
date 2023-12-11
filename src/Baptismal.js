@@ -137,7 +137,7 @@ const Baptismal = () => {
 
 
         <div className="cards1" onClick={() => openModal('image2.jpg')}>
-          <img src="https://images-ext-2.discordapp.net/external/4geZ8n_Gxz6QNOt-YXjy4VjVhHyD1xbsCnXpqYVoS7A/https/denverphotoboothrental.com/wp-content/uploads/2021/02/Inflatable-photobooth-for-weddings-1.jpg?format=webp&width=883&height=588" alt="Cards 2" />
+          <img src="https://photoboothbypixeldust.weebly.com/uploads/1/0/2/2/102217414/greenscreen-baptism-sheep-levi-photobooth-marikina-003.jpg" alt="Cards 2" />
         </div>
 
 
@@ -190,8 +190,8 @@ const Baptismal = () => {
 
 
       <div className="cards-container2">
-        <div className="cardss1">
-          <div className="cards1" onClick={() => openModal('image1.jpg')}>
+        <div className="cardsss1">
+          <div className="cardsa1" onClick={() => openModal('image1.jpg')}>
             <img src="https://static.tildacdn.com/tild3336-6636-4433-b630-356638633732/DSC_0628.JPG" alt="Card 1" />
           </div>
           <h3>Gallery Photobooth Rental</h3>
@@ -199,8 +199,8 @@ const Baptismal = () => {
         </div>
 
 
-        <div className="cardss1">
-          <div className="cards1" onClick={() => openModal('image2.jpg')}>
+        <div className="cardsss1">
+          <div className="cardsa1" onClick={() => openModal('image2.jpg')}>
             <img src="https://images-ext-2.discordapp.net/external/4geZ8n_Gxz6QNOt-YXjy4VjVhHyD1xbsCnXpqYVoS7A/https/denverphotoboothrental.com/wp-content/uploads/2021/02/Inflatable-photobooth-for-weddings-1.jpg?format=webp&width=883&height=588" alt="Card 2" />
           </div>
           <h3>Baptismal Photobooth Package </h3>
@@ -209,8 +209,8 @@ const Baptismal = () => {
 
 
 
-        <div className="cardss1">
-          <div className="cards1" onClick={() => openModal('image3.jpg')}>
+        <div className="cardsss1">
+          <div className="cardsa1" onClick={() => openModal('image3.jpg')}>
             <img src="https://www.thefunexperts.co.uk/images/500x500/0x0-0x0/master-folder/website-images/main-products/magic-selfie-mirror-hire/photo-2019-01-18-13-44-44jpg.png?v=1613086692" alt="Card 3" />
           </div>
           <h3>Customized Packages </h3>

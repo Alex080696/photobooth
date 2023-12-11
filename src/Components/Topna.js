@@ -13,11 +13,11 @@ const Navigationss = () => {
   return (
     <Navbar expand="lg" className="navbar">
       <Container>
-        <Navbar.Brand as={Link} to="/LandingPage" className="brand">Kratus Photography</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/" className="brand">Kratus Photography</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" className="Toggle" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-          <Nav.Link href="./LandingPage" className="list_item">Home</Nav.Link>
+          <Nav.Link href="/" className="list_item">Home</Nav.Link>
             
           </Nav>
           <Nav className="ms-auto">

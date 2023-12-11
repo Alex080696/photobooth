@@ -531,7 +531,7 @@ body {
   
   
     .content-text4 p {
-      font-size: 8px;
+      font-size: 7px;
     }
   
   
@@ -589,8 +589,10 @@ body {
     }
 
     .image{
+        
         width: auto;
-        height: 100%;
+        
+        height: 60%;
     }
    
   }
