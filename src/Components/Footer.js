@@ -36,7 +36,7 @@ const Footer = () => {
             <ul className="list-unstyled">
                 <li><a href="./Login"> Wedding</a></li>
                 <li><a href="./Login"> Parties</a></li>
-                <li><a href="./Login"> Corporate</a></li>
+                
                 <li><a href="./Login"> Baptismal</a></li>
             </ul>
         </div>
